@@ -7,14 +7,13 @@
 ## 이름 : 차상훈
 
 <a href = "#"><img src="https://github.com/hello-team/123.jpg" width = "400px" alt="proflie"></a>
-좋아하는 게임 : pc, 모바일 장르 안가리고 다 좋아합니다.
-<nagelgood123@gmail.com>
+
 =======
 ![<a href = "#"><img src="https://github.com/hello-team/123.jpg" width = "400px" alt="proflie"></a>](https://blog.kakaocdn.net/dn/nugtp/btqDAB39DIG/3zZ9xKKuZ6qzLwYU8P6pzk/img.png)
 
 1. 좋아하는 게임 : pc, 모바일게임 다 좋아합니다.
 2. 좋아하는 장르 : FPS 제외 모든장르
-3. 이메일 주소 : <stillgoingdown@gmail.com>
+3. 이메일 주소 : <nagelgood123@gmail.com>
 
 ## 이름: 조희선
 
