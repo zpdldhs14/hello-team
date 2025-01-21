@@ -28,7 +28,7 @@
 
 ## 이름 : 서예찬
 
-<img src="https://github.com/user-attachments/assets/53be0343-81c9-457e-acd3-9a229b39657c" width="100" height="100"/>
+<img src="https://github.com/user-attachments/assets/53be0343-81c9-457e-acd3-9a229b39657c" width="150" height="150"/>
 
 1. 좋아하는 게임 : 오버워치, 방탈출 시뮬레이터, 던그리드 등등
 2. 좋아하는 장르 : FPS, 미스터리, 퍼즐
