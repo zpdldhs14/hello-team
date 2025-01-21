@@ -17,11 +17,13 @@
 <Hammzzzi17@gmail.com>
 
 ## 이름 : 이채은
-![Image](https://github.com/user-attachments/assets/4569c782-47f3-41e7-9d44-abf6d72b19c5)
+
+<img src="https://github.com/user-attachments/assets/4569c782-47f3-41e7-9d44-abf6d72b19c5" width="200" height="200"/>
 
 
-좋아하는 게임 : 포켓몬스터, 스타듀밸리 등등  
-<stillgoingdown@gmail.com>
+1. 좋아하는 게임 : 포켓몬스터, 스타듀밸리 등등
+2. 좋아하는 장르 : 격투, 슈팅게임 제외 대부분
+3. 이메일 주소 : <stillgoingdown@gmail.com>
 
 
 ## 이름 : 서예찬
