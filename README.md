@@ -15,7 +15,8 @@
 <Hammzzzi17@gmail.com>
 
 ## 이름 : 이채은
-![Image](https://github.com/user-attachments/assets/4569c782-47f3-41e7-9d44-abf6d72b19c5)
+
+<img src="https://github.com/user-attachments/assets/4569c782-47f3-41e7-9d44-abf6d72b19c5" width="100" height="100"/>
 
 
 좋아하는 게임 : 포켓몬스터, 스타듀밸리 등등  
