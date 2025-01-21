@@ -5,23 +5,25 @@
 ---
 
 ## 이름 : 차상훈
+
 <a href = "#"><img src="https://github.com/hello-team/123.jpg" width = "400px" alt="proflie"></a>
 좋아하는 게임 : pc, 모바일 장르 안가리고 다 좋아합니다.
 <nagelgood123@gmail.com>
 
 ## 이름: 조희선
 
-좋아하는 게임: 가볍게 할 수 있는 퍼즐 게임류를 가장 좋아하지만 롤과 같은 AOS 게임도 즐깁니다.
-<Hammzzzi17@gmail.com>
+<img src="https://github.com/user-attachments/assets/61834227-48c9-47fb-bcd1-43a73b3e8b76", height="50x", width="50px">
+
+1. 좋아하는 게임: .
+2. 좋아하는 장르: 가볍게 할 수 있는 퍼즐 게임류를 가장 좋아하지만 롤과 같은 AOS 게임도 즐깁니다.
+3. <Hammzzzi17@gmail.com>
 
 ## 이름 : 이채은
 
 <img src="https://github.com/user-attachments/assets/4569c782-47f3-41e7-9d44-abf6d72b19c5" width="100" height="100"/>
 
-
 좋아하는 게임 : 포켓몬스터, 스타듀밸리 등등  
 <stillgoingdown@gmail.com>
-
 
 ## 이름 : 서예찬
 
