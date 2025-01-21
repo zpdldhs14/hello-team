@@ -6,8 +6,6 @@
 
 ## 이름 : 차상훈
 
-<<<<<<< HEAD
-
 <a href = "#"><img src="https://github.com/hello-team/123.jpg" width = "400px" alt="proflie"></a>
 좋아하는 게임 : pc, 모바일 장르 안가리고 다 좋아합니다.
 <nagelgood123@gmail.com>
@@ -17,8 +15,6 @@
 1. 좋아하는 게임 : pc, 모바일게임 다 좋아합니다.
 2. 좋아하는 장르 : FPS 제외 모든장르
 3. 이메일 주소 : <stillgoingdown@gmail.com>
-
-> > > > > > > 2b4eb93c0ae2b4b6c5c36dcbee403b2db1f0db61
 
 ## 이름: 조희선
 
@@ -32,7 +28,6 @@
 
 <img src="https://github.com/user-attachments/assets/4569c782-47f3-41e7-9d44-abf6d72b19c5" width="200" height="200"/>
 
-<<<<<<< HEAD
 좋아하는 게임 : 포켓몬스터, 스타듀밸리 등등  
 <stillgoingdown@gmail.com>
 =======
@@ -40,7 +35,6 @@
 1. 좋아하는 게임 : 포켓몬스터, 스타듀밸리 등등
 2. 좋아하는 장르 : 격투, 슈팅게임 제외 대부분
 3. 이메일 주소 : <stillgoingdown@gmail.com>
-   > > > > > > > 2b4eb93c0ae2b4b6c5c36dcbee403b2db1f0db61
 
 ## 이름 : 서예찬
 
@@ -51,11 +45,11 @@
 3. 이메일 주소 : <table_rand@naver.com>
 
 ## 이름: 전소현
+
 안녕하세요. <br>
 좋아하는 게임 : 최근에 발로란트 많이 하고 있는데 다양하게 좋아합니다. <br>
 좋아하는 게임 장르: 생존, FPS, 공포, RPG 등 <br>
 이메일 주소: bcrsiu@naver.com
-
 
 <table>
   <tr>
