@@ -2,7 +2,7 @@
 # Hello!
 # Hello! 2
 
-![Alt text](C:\aiprogramming\123.jpg)
+<img src="C:\aiprogramming\123.jpg", height="100x", width="100px">
 이름 : 차상훈
 --------------
 좋아하는 게임 : 전략, 액션 어드벤처 등 장르 안가리고 다 좋아해요
