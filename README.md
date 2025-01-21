@@ -5,7 +5,9 @@
 ---
 
 ## 이름 : 차상훈
+<a href = "#"><img src="https://github.com/hello-team/123.jpg" width = "400px" alt="proflie"></a>
 좋아하는 게임 : pc, 모바일 장르 안가리고 다 좋아합니다.
+<nagelgood123@gmail.com>
 
 ## 이름: 조희선
 
