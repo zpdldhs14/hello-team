@@ -17,7 +17,7 @@
 
 ## 이름: 조희선
 
-<img src="https://github.com/user-attachments/assets/61834227-48c9-47fb-bcd1-43a73b3e8b76" height="200", width="200"/>
+<img src="https://github.com/user-attachments/assets/61834227-48c9-47fb-bcd1-43a73b3e8b76" width="200" height="200"/>
 
 1. 좋아하는 게임 : .
 2. 좋아하는 장르 : 가볍게 할 수 있는 퍼즐 게임류를 가장 좋아하지만 롤과 같은 AOS 게임도 즐깁니다.
