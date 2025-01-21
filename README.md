@@ -14,6 +14,7 @@
 
 ## 이름 : 이채은
 <img src="![Image](https://github.com/user-attachments/assets/4569c782-47f3-41e7-9d44-abf6d72b19c5)">
+</p>
 
 
 좋아하는 게임 : 포켓몬스터, 스타듀밸리 등등  
